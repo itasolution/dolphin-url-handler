@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Open in Dolphin (URL handler)
+Comment=Handle dolphin:/// URLs and open them in Dolphin
+Exec=@SCRIPT_ABS_PATH@ %u
+Type=Application
+NoDisplay=true
+Terminal=false
+MimeType=x-scheme-handler/dolphin;
